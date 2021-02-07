@@ -2,18 +2,10 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 	
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
-
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 
-\`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
-\`\`\`MENGGUNAKAN BOT\`\`\`
+
+
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
@@ -323,6 +315,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➲ *KEVIN DAVID*
 │➲ *MY TEAM FXC7 BOT*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
+│➲ *FXC7*
 ┬
 ╰────────────────────────`
 }
