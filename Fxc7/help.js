@@ -1,11 +1,9 @@
 // menu fitur bot
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
-	
 
-
-
-
+SUBSCRIBE:ANKER PRODUCTION
+DI SITU ADA TUTORIAL JADI BOT
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
